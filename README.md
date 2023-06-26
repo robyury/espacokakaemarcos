@@ -23,6 +23,9 @@ O processo deve iniciar através da instalação do servidor web e do MySQL. Dev
 Feito isso, deve-se instalar o Composer e o NodeJS. Após a instalação de ambos, obtenha o repositório no diretório de hospedagem do website.
 
 Após obter o repositório, execute no MySQL o script localizado na pasta ```/database/backups``` com a data mais recente. Ele será responsável por criar o banco de dados e o popular com os dados da última atualização.
+
+Em sequência, execute o seguinte comando na pasta base do projeto:
+
 ```shell
 composer install
 ```
