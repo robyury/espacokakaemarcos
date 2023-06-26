@@ -2,7 +2,7 @@
 
 ## Sobre o site
 
-Este site foi feito para o espaço Kaká e Marcos, conforme solicitado previamente. O projeto está sendo criado no github para que possam ser feitas manutenções ou eventuais adições de conteúdo ao site.
+Este site foi feito para o espaço Kaká e Marcos, conforme solicitado previamente. O projeto está sendo criado no github para que possam ser feitas manutenções ou eventuais adições de conteúdo ao site. Este projeto se manterá privado, tendo acesso a ele apenas os associados ao mesmo.
 
 A base do site foi feita em Laravel, e utiliza MySQL para a conexão com o banco de dados. Devido a população prévia de dados, um backup será enviado para o uso ao invés do método padrão de executar a Migration do banco de dados.
 
