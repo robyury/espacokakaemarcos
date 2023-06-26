@@ -13,7 +13,7 @@ Segue abaixo os componentes necessários para o uso do Laravel:
 
 - MySQL;
 - Um servidor web de sua escolha;
-- **[Composer](https://getcomposer.org/)**;- 
+- **[Composer](https://getcomposer.org/)**;
 - **[NodeJS](https://nodejs.org/en/download)**;
 
 ## Como Instalar
