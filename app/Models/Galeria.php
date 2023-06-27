@@ -14,7 +14,7 @@ class Galeria extends Model
 
     public function user()
     {
-        return $this->belongsTo(User::class, 'evento_id', 'id');
+        return $this->belongsTo(Eventos::class, 'evento_id', 'id');
     }
 
 }
