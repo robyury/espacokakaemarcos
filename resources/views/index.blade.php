@@ -242,26 +242,15 @@
                     <div class="el-smalltitle">Sobre Nós</div>
                     <h2 class="display-4 margin-b30">Há 30 anos registrando sonhos.</h2>
                     <div class="row">
-                        <div class="col-4">
-                            <img class="img-fluid" src="{{asset('assets/images/home/awards-1.png')}}" alt=" " />
-                        </div>
-                        <!-- /col-4 -->
-                        <div class="col-4">
-                            <img class="img-fluid" src="{{asset('assets/images/home/awards-2.png')}}" alt=" " />
-                        </div>
-                        <!-- /col-4 -->
-                        <div class="col-4">
-                            <img class="img-fluid" src="{{asset('assets/images/home/awards-3.png')}}" alt=" " />
-                        </div>
-                        <!-- /col-4 -->
+                        <p>Com 30 anos no mercado de festas e eventos dos quais as mais inusitadas cenografias já foram executadas. Nos rendemos ao que é o objetivo de nossos clientes: a realização de sonhos, pois são momentos únicos, que acontecem para ficarem guardados na memória por toda a vida, e nos orgulhamos de poder fazer parte desse momento na vida de cada um.</p>
                     </div>
                     <!-- /row -->
                 </div>
                 <!-- /col-lg-6 -->
                 <div class="col-lg-6">
                     <div class="margin-l50">
-                        <p>Com 30 anos no mercado de festas e eventos dos quais as mais variadas e inusitadas cenografias já foram executadas. Nos rendemos ao que é o objetivo de nossos clientes: a realização de sonhos, pois são momentos únicos, que acontecem para ficarem guardados na memória por toda a vida, e nós nos orgulhamos de poder fazer parte dessa história na vida de cada um.</p>
                         <p>Temos como um DNA da empresa a realização de grandiosos dias onde principalmente nos tornamos parte da família, para que possamos captar toda a essência deste momento único e transforma-lo em um dia inesquecível para todos. Cuidamos de cada detalhe para que esse dia especial seja perfeito. Por isso, nosso lema é: “Não fazemos decorações, nós realizamos sonhos”.</p>
+                        <p>O nosso espaço de eventos é um lugar onde sonhos se tornam realidade. Localizado em uma área privilegiada é um espaço encantador oferece uma infraestrutura completa e serviços personalizados para tornar qualquer evento inesquecível.</p>
                         <div class="row margin-t30">
                             <div class="col-md-6">
                                 <ul class="list-circle">
