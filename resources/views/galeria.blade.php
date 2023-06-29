@@ -68,6 +68,8 @@
                         <ul class="social-media">
                             <li><a class="social-facebook" href="https://www.facebook.com/kakaemarcosdecoracoes" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a class="social-instagram" href="https://www.instagram.com/espacokakaemarcos/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                            <li><a class="social-whatsapp" href="https://wa.me/5521969044747" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
+                            <li><a class="social-youtube" href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube"></i></a></li>
                             <li><a class="social-email" href="mailto:bricoletti@hotmail.com" target="_blank"><i class="far fa-envelope"></i></a></li>
                         </ul>
                     </div>
@@ -88,6 +90,8 @@
                 <ul class="social-media">
                     <li><a class="social-facebook" href="https://www.facebook.com/kakaemarcosdecoracoes" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
                     <li><a class="social-instagram" href="https://www.instagram.com/espacokakaemarcos/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                    <li><a class="social-whatsapp" href="https://wa.me/5521969044747" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
+                    <li><a class="social-youtube" href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube"></i></a></li>
                     <li><a class="social-email" href="mailto:bricoletti@hotmail.com" target="_blank"><i class="far fa-envelope"></i></a></li>
                 </ul>
             </div>
@@ -164,7 +168,7 @@
                             <div class="item-portfolio item-4cols wedding">
                                 <div class="post-image item-grid-image"><img loading="lazy" src="{{$data->capa_url}}" class="img-fluid" alt=" " width="750" height="750"> <a class="cursor-eye" href="{{route('galeria_album', ['id' => $data->id])}}"> </a></div>
                                 <div class="item-text-holder">
-                                    <h2 class="article-title display-6"><a href="gallery-grid-3-cols.html">{{$data->nome_evento}}</a></h2>
+                                    <h2 class="article-title display-6"><a href="{{route('galeria_album', ['id' => $data->id])}}">{{$data->nome_evento}}</a></h2>
                                     <ul class="portfolio-categ">
                                         <li>{{$data->tipo_evento}}</li>
                                     </ul>
@@ -247,6 +251,8 @@
                             <ul>
                                 <li><a href="https://www.facebook.com/kakaemarcosdecoracoes" target="_blank">Facebook</a></li>
                                 <li><a href="https://www.instagram.com/espacokakaemarcos/" target="_blank">Instagram</a></li>
+                                <li><a href="https://wa.me/5521969044747" target="_blank">Whatsapp</a></li>
+                                <li><a href="https://www.youtube.com" target="_blank">Youtube</a></li>
                                 <li><a href="mailto:bricoletti@hotmail.com" target="_blank">E-Mail</a></li>
                             </ul>
                         </div>
