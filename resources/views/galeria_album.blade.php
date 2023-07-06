@@ -68,7 +68,7 @@
                         <ul class="social-media">
                             <li><a class="social-facebook" href="https://www.facebook.com/kakaemarcosdecoracoes" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a class="social-instagram" href="https://www.instagram.com/espacokakaemarcos/" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                            <li><a class="social-whatsapp" href="https://wa.me/5521969044747" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
+                            <li><a class="social-whatsapp" href="https://wa.me/5514997172249" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
                             <li><a class="social-youtube" href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube"></i></a></li>
                             <li><a class="social-email" href="mailto:bricoletti@hotmail.com" target="_blank"><i class="far fa-envelope"></i></a></li>
                         </ul>
